@@ -31,7 +31,7 @@ This is a data analytics project that automates the analysis of Bitcoin (BTC) pr
     ```
 3.  Run the script:
     ```bash
-    python Bitcoin_Analyzer.py
+    python bitcoin_analyzer.py
     ```
 
 ## 📈 Visuals
