@@ -23,7 +23,7 @@ This is a data analytics project that automates the analysis of Bitcoin (BTC) pr
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/bitcoin-analyzer.git](https://github.com/YOUR_USERNAME/bitcoin-analyzer.git)
+    git clone [https://github.com/Mahmoud455Salah/bitcoin-sentiment-analyzer.git](https://github.com/Mahmoud455Salah/bitcoin-sentiment-analyzer)
     ```
 2.  Install dependencies:
     ```bash
