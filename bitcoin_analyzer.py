@@ -59,7 +59,7 @@ df['RSI'] = 100 - (100 / (1 + rs))
 
 # Remove the first 50 rows because they will have NaN (null) values due to the calculation
 df.dropna(inplace=True)
-print(df['RSI'])
+# print(df['RSI'])
 
 # ==========================================
 # PHASE 4: VISUALIZATION (The Evidence)
