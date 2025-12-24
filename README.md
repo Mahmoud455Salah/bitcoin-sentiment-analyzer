@@ -1,5 +1,7 @@
 # 📈 Bitcoin Market Sentiment Analyzer
 
+
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/mahmoudsalah7344/bitcoin-analyzer)
 ## Overview
 
 This is a data analytics project that automates the analysis of Bitcoin (BTC) price trends. It fetches real-time market data, calculates technical indicators (RSI & SMA), and generates a trading recommendation (Buy/Sell/Hold) based on market sentiment.
